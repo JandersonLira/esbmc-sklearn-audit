@@ -1,0 +1,4 @@
+interface:
+  display_name: "ESBMC Sklearn Audit"
+  short_description: "Executa a metodologia ESBMC para regressores sklearn"
+  default_prompt: "Use $esbmc-sklearn-audit para executar a metodologia de verificacao formal com ESBMC sobre regressores da Scikit-Learn e resumir a pontuacao das falhas encontradas."
